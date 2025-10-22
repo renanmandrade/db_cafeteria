@@ -1,3 +1,4 @@
+-- Versão 1.0
 -- Criação do banco de dados
 CREATE DATABASE cafeteria;
 USE cafeteria;
